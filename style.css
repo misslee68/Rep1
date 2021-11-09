@@ -1,8 +1,121 @@
 
+/* body background color */
 
 body {
 
-background-color: brown;
+background-color: papayawhip;
+
+}
+
+/* logo header */
+
+.logo-header {
+
+    display: flex;
+    background-color:white;
+    
+    margin-left: -8px;
+    margin-top: -8px;
+    margin-right: -8px;
+    
+}
+
+
+.logo-header >  div  {
+
+
+     display: flex;
+     
+     justify-content:space-between;
+     
+}
+
+
+#company-name {
+
+
+    font-size: 25px;
+    justify-content: center;
+    margin-top: 30px;
+
+}
+
+#kitty-logo {
+
+    margin-top: 25px;
+
+}
+
+#search-box {
+
+    
+    width: 150px;
+    height: 50px;
+    margin-left: 20px;
+    margin-top: 35px;
+}
+
+.nav-bar {
+
+    color: crimson;
+    margin-left: 175px;
+    margin-top: 55px;
+    text-decoration: none;
+    font-weight: bold;
+
 
 
 }
+
+#shop-link {
+
+color: crimson;
+margin-left: 100px;
+margin-top: 55px;
+text-decoration: none;
+font-weight: bold;
+
+}
+
+#nutrition-link  {
+
+color: crimson;
+margin-left: 30px;
+margin-top: 55px;
+text-decoration: none;
+font-weight: bold;
+
+}
+
+#ourstory-link {
+
+    color: crimson;
+    margin-left: 30px;
+    margin-top: 55px;
+    text-decoration: none;
+    font-weight: bold;
+
+}
+
+#stockists-link  {
+
+    color: crimson;
+    margin-left: 30px;
+    margin-top: 55px;
+    text-decoration: none;
+    font-weight: bold;
+
+}
+
+#blog-link {
+
+    color: crimson;
+    margin-left: 30px;
+    margin-top: 55px;
+    text-decoration: none;
+    font-weight: bold;
+
+}
+
+
+    
